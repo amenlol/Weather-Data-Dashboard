@@ -51,7 +51,3 @@ Generated files:
 - **Portfolio:** [ameneb.netlify.app](https://ameneb.netlify.app)
 - **Email:** ebisagetachew18@gmail.com
 
-
-
-# Weather-Data-Dashboard
-# Weather-Data-Dashboard
