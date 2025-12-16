@@ -15,7 +15,6 @@ Date,Temperature,Rainfall,Humidity
 2023-01-06,20,3.0,75
 2023-01-07,18,10.2,80
 ```
-
 You can replace this with any real dataset (e.g., Kaggle) as long as it has the same columns: `Date`, `Temperature`, `Rainfall`, `Humidity`.
 
 ### Setup
